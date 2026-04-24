@@ -6,7 +6,7 @@ Software Engineer (SDE2) on a **32-week public journey to become an AI/LLM Engin
 - 🎯 Target role: AI Engineer / LLM Engineer / ML Engineer
 - 🧠 Building: RAG systems, agents, fine-tuned models, LLMOps loops
 - 🛠️ Stack: PyTorch · Transformers · HuggingFace · Ollama · LangGraph · Chroma · Langfuse
-- ✍️ Learning in public: [@MuNnA11318](https://x.com/MuNnA11318) — weekly threads every Friday
+- ✍️ Learning in public: [@mastan_ai](https://x.com/mastan_ai) — weekly threads every Friday
 - 💡 Motto: *80% building, 20% absorbing. Ship ugly, iterate in public.*
 
 ---
