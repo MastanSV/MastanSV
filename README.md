@@ -2,7 +2,7 @@
 
 Software Engineer (SDE2) on a **32-week public journey to become an AI/LLM Engineer** by December 2026. 🚀
 
-- 🔭 Currently: **[Week 3 — Classification Shipped](https://github.com/MastanSV/ai-engineering-journey)**
+- 🔭 Currently: **[Week 4 — Phase 1 Finish: Ship P1](https://github.com/MastanSV/ai-engineering-journey)**
 - 🎯 Target role: AI Engineer / LLM Engineer / ML Engineer
 - 🧠 Building: RAG systems, agents, fine-tuned models, LLMOps loops
 - 🛠️ Stack: PyTorch · Transformers · HuggingFace · Ollama · LangGraph · Chroma · Langfuse
@@ -13,10 +13,10 @@ Software Engineer (SDE2) on a **32-week public journey to become an AI/LLM Engin
 
 ### 📊 Current Week Progress
 
-🟢 Week 3 / 32 · Theme: _Classification shipped_
+🟢 Week 4 / 32 · Theme: _Phase 1 Finish — Ship P1_
 
-This week: Logistic regression from scratch in numpy (sigmoid + log-loss + GD + decision boundary) → k-fold cross-validation → regularization teach-back essay. Catching up on 3 missed NNs from a red-flag Week 2.
+This week: Shipping Project P1 (Tabular ML w/ Engineering Rigor) — classification metrics notebook, end-to-end ML pipeline, Gradio app deployed to HF Spaces, logistic regression teach-back. Last week of Phase 1 (ML Foundations). Phase 1 gate: project deployed + README + Twitter thread + teach-back ≥ 7/10.
 
-✅ Last week (Week 2): Ridge + Lasso notebook shipped with 3-way MLflow comparison. Mon–Thu weekday discipline solid (5/5). Fri–Sun collapsed — comprehension wall → freeze → cascade. New rule active: 20-min stuck rule (switch resource, never close laptop).
+✅ Last week (Week 3): First all-clean week — 5/5 NNs hit. Logistic regression from scratch (sigmoid + log-loss + GD + decision boundary), k-fold CV on California housing, regularization teach-back (7.5/10), Twitter thread #4 posted, glossary filled (14 terms), ROC/AUC prereading done. 17.15 / 18 hrs logged (95%).
 
 👉 [Follow the full journey](https://github.com/MastanSV/ai-engineering-journey)
