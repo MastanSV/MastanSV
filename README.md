@@ -1,8 +1,9 @@
 ## 👋 Hey, I'm Mastan
 
-Software Engineer (SDE2) on a 32-week public journey to become an AI/LLM Engineer by December 2026. 🚀
+Software Engineer (SDE2) on a 32-week public journey to become an AI/LLM
+Engineer by December 2026. 🚀
 
-• 🔭 Currently: [Week 4 — Phase 1 Finish: Ship P1](https://github.com/MastanSV/ai-engineering-journey)
+• 🔭 Currently: [Week 7 — Phase 2: Deep Learning & Transformers (building P2: nanoGPT from scratch)](https://github.com/MastanSV/ai-engineering-journey)
 • 🎯 Target role: AI Engineer / LLM Engineer / ML Engineer
 • 🧠 Building: RAG systems, agents, fine-tuned models, LLMOps loops
 • 🛠️ Stack: PyTorch · Transformers · HuggingFace · Ollama · LangGraph · Chroma · Langfuse
@@ -11,21 +12,24 @@ Software Engineer (SDE2) on a 32-week public journey to become an AI/LLM Enginee
 
 ### 📊 Current Week Progress
 
-🟢 Week 5 / 32 · Theme: Phase 1 Finish — Ship P1
+🟢 Week 7 / 32 · Theme: Neural Foundations — Phase 2 begins
 
-This week (Jul 15–20): Finishing evaluation suite (ROC curve, threshold sweep),
-best-model selection, logistic regression teach-back, building Gradio app, deploying
-to HF Spaces, README polish + Loom walkthrough, Twitter thread #5, Phase 1 gate check.
-Final push to close Phase 1 (ML Foundations).
+This week (Jul 28–Aug 2): Building neural networks from the ground up — perceptron
+from scratch (forward pass + learning rule + the XOR limitation), backprop intuition
+(chain rule + computational graphs), PyTorch basics (tensors, autograd, nn.Module),
+MLP in PyTorch, then an MLP from scratch in numpy to match it. Backprop teach-back,
+Twitter thread #6, and scoping P2 (nanoGPT milestones).
 
-✅ Done so far (Week 4): EDA + preprocessing, baseline LogisticRegression,
-L2 (Ridge) + L1 (Lasso) models, 5-fold cross-validation, MLflow experiment tracking,
-confusion matrix analysis, classification report — switched from "precision-first"
-to "recall-first" after reasoning through FN cost in medical screening.
+✅ Last week (Week 6): 🚀 Shipped P1 — Heart Disease classifier live on HF Spaces,
+clearing the Phase 1 gate (all 6 quality-bar criteria: live demo, 3-min Loom,
+architecture diagram, real eval numbers, Twitter thread, real-world problem).
+Recall-first threshold (0.93 recall / 0.72 precision) chosen to minimize missed
+sick patients. Wrote an interview Q&A bank + honest retro mapping my knowledge gaps.
 
-✅ Last week (Week 3): First all-clean week — 5/5 NNs hit. Logistic regression
-from scratch (sigmoid + log-loss + GD + decision boundary), k-fold CV on
-California housing, regularization teach-back (7.5/10), Twitter thread #4 posted,
-glossary filled (14 terms), ROC/AUC prereading done. 17.15 / 18 hrs logged (95%).
+✅ Phase 1 complete (Weeks 1–6): ML foundations — linear & logistic regression from
+scratch, regularization (Ridge/Lasso), k-fold CV, classification metrics
+(precision/recall/F1/ROC-AUC), MLflow tracking, and a fully deployed tabular ML
+project. Learned the hard way why accuracy is the wrong headline metric for imbalanced,
+high-stakes screening.
 
 👉 [Follow the full journey](https://github.com/MastanSV/ai-engineering-journey)
